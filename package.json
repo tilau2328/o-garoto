@@ -1,0 +1,11 @@
+{
+  "name": "o-garoto",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "workspaces": [
+    "./content",
+    "./renderer",
+    "./modules/*"
+  ]
+}
